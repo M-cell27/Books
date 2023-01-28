@@ -1,2 +1,2 @@
 # Books
-Data Science &amp; Tech related books
+Books for self-taught learning.
