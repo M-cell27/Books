@@ -1,2 +1,2 @@
 # Books
-Books for self-taught learning.
+Books for Data Science self-taught learning.
